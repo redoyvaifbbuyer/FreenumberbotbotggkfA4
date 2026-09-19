@@ -1,4 +1,4 @@
 requests
-pymongo
-pyotp
 beautifulsoup4
+pyotp
+google-auth
